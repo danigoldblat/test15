@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+.player1 {
+    display: flex;
+    justify-content: start;
+    gap: 5%;
+}
+.player2 {
+    display: flex;
+    justify-content: start;
+    margin-top: 30%;
+    gap: 5%;
+}
+.counter {
+    display: flex;
+    
+    margin-top: 30%;
+   font-size:xx-large;
+   background-color: yellow;
+   gap: 15%;
+}
